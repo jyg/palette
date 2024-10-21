@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Palettes>
+  <Category Name="Effects">
+    <Item Name="bitcrusher" Patch="#X obj 0 0 else/bitcrusher.m~"/>
+    <Item Name="chorus" Patch="#X obj 0 0 else/chorus.m~"/>
+    <Item Name="delay" Patch="#X obj 0 0 else/delay.m~"/>
+    <Item Name="drive" Patch="#X obj 0 0 else/drive.m~"/>
+    <Item Name="flanger" Patch="#X obj 0 0 else/flanger.m~"/>
+    <Item Name="gain" Patch="#X obj 0 0 else/gain.m~"/>
+    <Item Name="phaser" Patch="#X obj 0 0 else/phaser.m~"/>
+    <Item Name="reverb" Patch="#X obj 0 0 else/plate.rev.m~"/>
+    <Item Name="ringmod" Patch="#X obj 0 0 else/rm.m~"/>
+  </Category>
+  <Category Name="Filters">
+    <Item Name="EQ" Patch="#X obj 0 0 else/eq.m~"/>
+    <Item Name="svf" Patch="#X obj 0 0 else/svf.m~"/>
+    <Item Name="vcf" Patch="#X obj 0 0 else/vcf.m~"/>
+  </Category>
+  <Category Name="Instruments">
+    <Item Name="bass" Patch="#X obj 0 0 else/bass.m~"/>
+    <Item Name="brane" Patch="#X obj 0 0 else/brane.m~"/>
+    <Item Name="brass" Patch="#X obj 0 0 else/brass.m~"/>
+    <Item Name="drums" Patch="#X obj 0 0 else/drums.m~"/>
+    <Item Name="e-piano" Patch="#X obj 0 0 else/epiano.m~"/>
+    <Item Name="guitar" Patch="#X obj 0 0 else/guitar.m~"/>
+    <Item Name="organ" Patch="#X obj 0 0 else/organ.m~"/>
+    <Item Name="piano" Patch="#X obj 0 0 else/piano.m~"/>
+    <Item Name="pluck" Patch="#X obj 0 0 else/pluck.m~"/>
+    <Item Name="strings" Patch="#X obj 0 0 else/strings.m~"/>
+    <Item Name="vca" Patch="#X obj 0 0 else/vca.m~"/>
+  </Category>
+  <Category Name="Oscillators">
+    <Item Name="6 operator FM" Patch="#X obj 0 0 else/pm6.m~"/>
+    <Item Name="gendyn osc" Patch="#X obj 0 0 else/gendyn.m~"/>
+    <Item Name="lfo" Patch="#X obj 0 0 else/lfo.m~"/>
+    <Item Name="noise osc" Patch="#X obj 0 0 else/noiseosc.m~"/>
+    <Item Name="plaits" Patch="#X obj 0 0 else/plaits.m~"/>
+    <Item Name="signal generator" Patch="#X obj 0 0 else/sig.m~"/>
+    <Item Name="vco" Patch="#X obj 0 0 else/vco.m~"/>
+  </Category>
+  <Category Name="Sequencers">
+    <Item Name="8-step sequencer" Patch="#X obj 0 0 else/seq8.m~"/>
+    <Item Name="adsr" Patch="#X obj 0 0 else/adsr.m~"/>
+    <Item Name="bpm metronome" Patch="#X obj 0 0 else/metronome.m~"/>
+    <Item Name="drum sequencer" Patch="#X obj 0 0 else/drumseq.m~"/>
+    <Item Name="note sequencer" Patch="#X obj 0 0 else/noteseq.m~"/>
+    <Item Name="presets" Patch="#X obj 0 0 else/presets.m"/>
+  </Category>
+</Palettes>

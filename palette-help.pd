@@ -1,0 +1,4 @@
+#N struct palette float x float y symbol name;
+#N canvas 197 109 677 530 12;
+#X obj 28 6 palette .palettes_test_4 test;
+#X scalar palette 28 26 test \;;
