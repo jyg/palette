@@ -13,4 +13,4 @@ enable menus for dynamic creation of objects inside a patch
   
 ## Usage
 * Copy palette folder into externals folder or any other place pd/plugdata will search for.
-* Create an object [palette <catalog>) in your patch. <catalog> is a xml file containing all items that your palette will contain. For example,  **.palettes_test_4**  in plugdata user folder.
+* Create an object [palette _catalog_) in your patch. _catalog_ is a xml file containing all items that your palette will contain. For example,  **.palettes_test_4**  in plugdata user folder.
