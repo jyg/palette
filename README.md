@@ -7,8 +7,10 @@ A 2 levels dropdown menu inspired by plugdata's palette
 enable menus for dynamic creation of objects inside a patch
 
 ## Requirements
-* puredata vanilla + iemguts **or** else lib
-  **or**
+* puredata vanilla + iemguts
+
+## planned support :
+* else lib instead of iemguts lib
 * plugdata nightly build 21-10-24 01:21 UTC	88aff89  or newer
   
 ## Usage
